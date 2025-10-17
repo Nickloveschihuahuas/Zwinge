@@ -1,0 +1,17 @@
+# C++ build artifacts
+build/
+*.o
+huffman
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# macOS specific files
+.DS_Store
+
+# IDE configuration folders
+.vscode/
+.idea/
