@@ -1,0 +1,3 @@
+/Users/nihalamanrahman/Developer/Zwinge/build/CMakeFiles/huffman.dir
+/Users/nihalamanrahman/Developer/Zwinge/build/CMakeFiles/edit_cache.dir
+/Users/nihalamanrahman/Developer/Zwinge/build/CMakeFiles/rebuild_cache.dir
